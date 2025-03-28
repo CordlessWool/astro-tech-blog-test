@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "pages": [
+  "collections": [
     { "path": {"base": "/src/pages", "pattern": ["*.md"]}, "name": "Posts" }
   ]
 
