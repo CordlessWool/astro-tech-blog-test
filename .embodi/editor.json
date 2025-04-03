@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "collections": [
-    { "path": {"base": "/src/pages", "pattern": ["*.md"]}, "name": "Posts" }
+    { "path": {"base": "src/pages/posts", "pattern": ["*.md"]}, "name": "Posts" }
   ]
 
 }
